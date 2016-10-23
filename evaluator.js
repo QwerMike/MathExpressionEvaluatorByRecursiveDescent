@@ -5,7 +5,7 @@ class Expression {
 
   eval() { 
     return this.f()
-  };
+  }
 }
 
 class Variable {
